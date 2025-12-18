@@ -107,7 +107,7 @@ sqlc version
 ### 2️⃣ Clone the Repository
 
 ```
-git clone https://github.com/<your-username>/user-api.git
+git clone https://github.com/romitdubey/user-api.git
 cd user-api
 
 ```
